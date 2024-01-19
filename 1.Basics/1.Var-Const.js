@@ -3,13 +3,10 @@ let Account_ID = "1234"
 var Account_Pass = "123asd"
 let Account_City = "Indore"
 
-<<<<<<< HEAD
-=======
 /*
 prefer not to use var because of issue in block scope and functional scope 
 */
 
->>>>>>> 87953d2f6a7ebbd19870c1cf7da9d556cf7d80bf
 console.log(Account_Name)
 
  Account_City = "Kota"

@@ -6,7 +6,7 @@
 // console.log(`Hello my name is ${name}and my repo count is ${repoCount}`);
 
 const gameName = "anand-an-com"
-console.log(gameName.slice(1,8));
+
 
 console.log(gameName[0]);
 console.log(gameName.__proto__);

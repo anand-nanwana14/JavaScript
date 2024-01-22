@@ -7,15 +7,12 @@ if (true) {
     
 }
 
-
-
 // console.log(a);
 // console.log(b);
 // console.log(c);
 
-
 function one(){
-    const username = "hitesh"
+    const username = "anand"
 
     function two(){
         const website = "youtube"
@@ -30,8 +27,8 @@ function one(){
 // one()
 
 if (true) {
-    const username = "hitesh"
-    if (username === "hitesh") {
+    const username = "anand"
+    if (username === "anand") {
         const website = " youtube"
         // console.log(username + website);
     }
@@ -49,8 +46,6 @@ console.log(addone(5))
 function addone(num){
     return num + 1
 }
-
-
 
 addTwo(5)
 const addTwo = function(num){
